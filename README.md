@@ -1,1 +1,1 @@
-# TestRep1 Перша версія першого ДЗ (Кононова Ольга)
+# TestRep1 First homework (Kononova Olga)
